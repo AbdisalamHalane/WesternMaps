@@ -1,0 +1,99 @@
+
+
+ABOUT:
+
+Western Maps.
+Team members:
+Team 13	1	Koroush Emari	        kemari@uwo.ca
+Team 13	2	Robert Ghita	        rghita@uwo.ca
+Team 13	3	Abdisalam Halane	ahalane@uwo.ca
+Team 13	4	Mohammed Mustafa Khan	mkhan545@uwo.ca
+Team 13	5	Jonathon Mikhael	jmikhael@uwo.ca
+
+Release Date: April 6th 2023
+
+
+:: HELP GUIDE ::
+
+MAP: 
+To navigate the maps, once on the main menu, the options of different buildings should be 
+given to you, choose the building you want and select edit. A similar screen will pop up
+for that building's floors, in the same fashion, choose the floor you want and you will be
+on that floor's map. To navigate back to the main menu, simply click on the main menu tab 
+at the top of the map.
+
+
+Creating point of interests:
+
+To create Point of interests, simly click on the screen and a pop up will appear, guiding you
+with the required properities of the Point of interest that should be filled. Once filled, hit 
+ok/save.
+ONCE YOU HAVE added or edited a point of interest, move the screen and youll see the edit updated
+
+**CAUTION, DO NOT ADD COMMA INTO YOUR NAME**
+Editing User Created Point of interest.
+
+To edit a User created point of interest, simply click on the point of interest you want and
+then the display and edit menu should appear. You would first be on the display tab, switch over
+to the edit tab and there you can see similar options as when you first created the point of interest.
+Once satisfied, save your edit, or remove it if you like. You can also cancel your edit by pressing the
+close button on the pop window.
+
+Display Layers:
+
+Once you have selected a Layer from the drop down menu, simply press display, and the layer should be 
+displayed. The hide button would hide the layer of interest.
+
+You can add a new Layer to populate by putting in the name of your desired layer in the textbox under the layer
+selection, once you have finished choosing your name, press add, and the new layer should appear there and also
+as another option for types when making a new Point of Interest. (both as admin or user).
+
+You can also remove a layer by selecting the layer you want to delete in the drop box, and then presssing remove.
+
+The weather should be displayed in the bottom left corner, you can hit the update button to update the weater.
+You can also hit the help guide again to see this page.
+
+You can search a point of interest by first selecting a floor and then pressing the search button, if no result is 
+found, Nothing happens.
+
+You can also select a point of interest youd like to discover in the drop box menu at the top left corner of the window.
+simply press ok once finished selecting a POI.
+
+Admin can create new Built In POIS. Login in as an admin, and you should be able to create one similar to how a user 
+would create their user created poi.
+
+You can display and hide the usercreated point of interest by pressing the display/hide buttons where it says UPOI.
+You can also select and go to a Usercreated Point of interest in that corner by selecting the User Created POI you want
+from the drop box menu and pressing ok.
+
+You can favourite a point of interest you like by pressing it and then hitting the favourite buttton in the new pop up
+window, the point of interest should turn blue. You can also remove it by hitting the same favourite button.
+Favourites should be put in the favourite drop down menu, and then pressing ok. You can also display and hide favourites
+with the hide and display buttons. NOTE, this does only the floor you are on.
+
+To exit the help, select the main menu tab.
+
+- Abdisalam
+
+
+Version 1
+
+
+
+
+
+
+
+To run this file program you will need two Json Files. One names Json-simple-1.1 and the other json. Saved these as new dependencies.
+Keep all images and text files in the first folder from westernmaps to properly run them. Be sure to download all the files and pictures.
+RUN THIS PROJECT ON netbeans!
+
+
+** FILE TO RUN IS User_Main.java ** all other files are help files.
+Once you run the file, if a black screen appear *** click on the window ***, and everything should be rendered,
+
+
+Password and Username for "User": Username -> User, Password -> 123
+Password and Username for "Admin": Username -> Admin, Password -> 123
+
+
